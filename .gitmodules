@@ -1,0 +1,3 @@
+[submodule "bril-installation-script"]
+	path = bril-installation-script
+	url = https://github.com/Forever-CodingNoob/bril-install
