@@ -1,0 +1,6 @@
+@main(x: int, y: int) {
+    v: int = div x y;
+    v: int = mul v y;
+    v: int = sub x v;
+    print v;
+}
